@@ -22,7 +22,7 @@
           "title": "Изучить Spring Boot",
           "description": "Освоить основы Spring Boot",
           "completed": false
- -       }
+          }
 
     - Убедитесь, что заголовок Content-Type установлен на application/json. Postman обычно добавляет его автоматически, но если его нет, перейдите на вкладку Headers и добавьте вручную:
 

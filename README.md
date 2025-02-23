@@ -25,8 +25,7 @@
           }
 
     - Убедитесь, что заголовок Content-Type установлен на application/json. Postman обычно добавляет его автоматически, но если его нет, перейдите на вкладку Headers и добавьте вручную:
-    -       Key: Content-Type
-    -       Value: application/json
+    -       Key: Content-Type  Value: application/json
 
 4) Отправка запроса:
      - Нажмите кнопку Send.

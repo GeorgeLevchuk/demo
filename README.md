@@ -30,9 +30,9 @@
 4) Отправка запроса:
      - Нажмите кнопку Send.
      - В нижней части экрана вы увидите ответ от сервера. Например:
-     - {
-  "id": 1,
-  "title": "Изучить Spring Boot",
-  "description": "Освоить основы Spring Boot",
-  "completed": false
-}
+         - {
+              "id": 1,
+              "title": "Изучить Spring Boot",
+              "description": "Освоить основы Spring Boot",
+              "completed": false
+            }
